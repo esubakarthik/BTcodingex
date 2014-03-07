@@ -6,7 +6,7 @@ this java program can only be run from command line
 
 following are the steps to run the program
 
-1: open command line interface (command promt or terminal)
+1: open command line interface (command prompt or terminal)
 
 2: change directory to point the folder with Main.class
 
